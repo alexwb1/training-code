@@ -1,0 +1,20 @@
+  330  ls .git/refs/heads/ | cat
+  331  cat .git/refs/heads/
+  332  cat .git/refs/heads/*
+  333  git remote add origin https://github.com/alexwb1/training-code.git
+  334  git push -u origin master
+  335  vim .git/config 
+  336  ssh-keygen
+  337  man ssh-keygen
+  338  ssh-keygen -t rsa -b 4096 -C 'alexwb1@live.com'
+  339  history | tail > log.log
+  337  man ssh-keygen
+  338  ssh-keygen -t rsa -b 4096 -C 'alexwb1@live.com'
+  339  history | tail > log.log
+  340  cat log.log 
+  341  cat ~/.ssh/id_rsa
+  342  cat ~/.ssh/id_rsa.pub 
+  343  eval $(ssh-agent -s)
+  344  htop
+  345  ssh-add ~/.ssh/id_rsa
+  346  history | tail | tee -a log.log 

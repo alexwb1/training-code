@@ -1,9 +1,5 @@
-# Revature C\# stuff
+### Revature C\# stuff
 
-## Maintainter 
-Alexander Barnard
+## Alexander Barnard
 
-## License
-
-[MIT lIcense]()
 

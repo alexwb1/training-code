@@ -1,0 +1,10 @@
+/Users/alexander/Desktop/revature/1_csharp/Digimon/obj/Debug/netcoreapp3.1/Digimon.csprojAssemblyReference.cache
+/Users/alexander/Desktop/revature/1_csharp/Digimon/obj/Debug/netcoreapp3.1/Digimon.AssemblyInfoInputs.cache
+/Users/alexander/Desktop/revature/1_csharp/Digimon/obj/Debug/netcoreapp3.1/Digimon.AssemblyInfo.cs
+/Users/alexander/Desktop/revature/1_csharp/Digimon/bin/Debug/netcoreapp3.1/Digimon.deps.json
+/Users/alexander/Desktop/revature/1_csharp/Digimon/bin/Debug/netcoreapp3.1/Digimon.runtimeconfig.json
+/Users/alexander/Desktop/revature/1_csharp/Digimon/bin/Debug/netcoreapp3.1/Digimon.runtimeconfig.dev.json
+/Users/alexander/Desktop/revature/1_csharp/Digimon/bin/Debug/netcoreapp3.1/Digimon.dll
+/Users/alexander/Desktop/revature/1_csharp/Digimon/bin/Debug/netcoreapp3.1/Digimon.pdb
+/Users/alexander/Desktop/revature/1_csharp/Digimon/obj/Debug/netcoreapp3.1/Digimon.dll
+/Users/alexander/Desktop/revature/1_csharp/Digimon/obj/Debug/netcoreapp3.1/Digimon.pdb

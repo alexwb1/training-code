@@ -1,0 +1,8 @@
+dotnet new sln -n MediaWorld  
+dotnet new console -n MediaWorld.Client
+dotnet new classlib -n MediaWorld.Domain
+dotnet new classlib -n MediaWorld.Storage
+dotnet new xunit -n MediaWorld.Test
+dotnet sln add **/*.csproj
+
+

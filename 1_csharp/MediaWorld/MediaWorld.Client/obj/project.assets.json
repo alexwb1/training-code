@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "MediaWorld.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/MediaWorld.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MediaWorld.Domain.dll": {}
+        }
+      },
+      "MediaWorld.Storage/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "MediaWorld.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MediaWorld.Storage.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MediaWorld.Storage.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MediaWorld.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MediaWorld.Domain/MediaWorld.Domain.csproj",
+      "msbuildProject": "../MediaWorld.Domain/MediaWorld.Domain.csproj"
+    },
+    "MediaWorld.Storage/1.0.0": {
+      "type": "project",
+      "path": "../MediaWorld.Storage/MediaWorld.Storage.csproj",
+      "msbuildProject": "../MediaWorld.Storage/MediaWorld.Storage.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "MediaWorld.Domain >= 1.0.0",
+      "MediaWorld.Storage >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/alexander/.nuget/packages/": {}
@@ -30,7 +68,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Domain/MediaWorld.Domain.csproj": {
+              "projectPath": "/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Domain/MediaWorld.Domain.csproj"
+            },
+            "/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Storage/MediaWorld.Storage.csproj": {
+              "projectPath": "/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Storage/MediaWorld.Storage.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

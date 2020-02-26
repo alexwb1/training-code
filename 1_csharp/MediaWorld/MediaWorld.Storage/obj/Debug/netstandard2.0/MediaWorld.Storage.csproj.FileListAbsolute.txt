@@ -1,0 +1,11 @@
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Storage/bin/Debug/netstandard2.0/MediaWorld.Storage.deps.json
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Storage/bin/Debug/netstandard2.0/MediaWorld.Storage.dll
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Storage/bin/Debug/netstandard2.0/MediaWorld.Storage.pdb
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Storage/bin/Debug/netstandard2.0/MediaWorld.Domain.dll
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Storage/bin/Debug/netstandard2.0/MediaWorld.Domain.pdb
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Storage/obj/Debug/netstandard2.0/MediaWorld.Storage.csprojAssemblyReference.cache
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Storage/obj/Debug/netstandard2.0/MediaWorld.Storage.AssemblyInfoInputs.cache
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Storage/obj/Debug/netstandard2.0/MediaWorld.Storage.AssemblyInfo.cs
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Storage/obj/Debug/netstandard2.0/MediaWorld.Storage.csproj.CopyComplete
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Storage/obj/Debug/netstandard2.0/MediaWorld.Storage.dll
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Storage/obj/Debug/netstandard2.0/MediaWorld.Storage.pdb

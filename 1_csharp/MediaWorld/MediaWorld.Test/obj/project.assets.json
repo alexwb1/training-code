@@ -1962,6 +1962,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "MediaWorld.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/MediaWorld.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MediaWorld.Domain.dll": {}
+        }
       }
     }
   },
@@ -6569,10 +6579,16 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "MediaWorld.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MediaWorld.Domain/MediaWorld.Domain.csproj",
+      "msbuildProject": "../MediaWorld.Domain/MediaWorld.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "MediaWorld.Domain >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "coverlet.collector >= 1.0.1",
       "xunit >= 2.4.0",
@@ -6602,7 +6618,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Domain/MediaWorld.Domain.csproj": {
+              "projectPath": "/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Domain/MediaWorld.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

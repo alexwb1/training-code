@@ -1,0 +1,15 @@
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/bin/Debug/netcoreapp3.1/MediaWorld.Client.deps.json
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/bin/Debug/netcoreapp3.1/MediaWorld.Client.runtimeconfig.json
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/bin/Debug/netcoreapp3.1/MediaWorld.Client.runtimeconfig.dev.json
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/bin/Debug/netcoreapp3.1/MediaWorld.Client.dll
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/bin/Debug/netcoreapp3.1/MediaWorld.Client.pdb
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/bin/Debug/netcoreapp3.1/MediaWorld.Domain.dll
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/bin/Debug/netcoreapp3.1/MediaWorld.Storage.dll
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/bin/Debug/netcoreapp3.1/MediaWorld.Domain.pdb
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/bin/Debug/netcoreapp3.1/MediaWorld.Storage.pdb
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/obj/Debug/netcoreapp3.1/MediaWorld.Client.csprojAssemblyReference.cache
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/obj/Debug/netcoreapp3.1/MediaWorld.Client.AssemblyInfoInputs.cache
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/obj/Debug/netcoreapp3.1/MediaWorld.Client.AssemblyInfo.cs
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/obj/Debug/netcoreapp3.1/MediaWorld.Client.csproj.CopyComplete
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/obj/Debug/netcoreapp3.1/MediaWorld.Client.dll
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Client/obj/Debug/netcoreapp3.1/MediaWorld.Client.pdb

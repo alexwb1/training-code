@@ -1,0 +1,8 @@
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Domain/bin/Debug/netstandard2.0/MediaWorld.Domain.deps.json
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Domain/bin/Debug/netstandard2.0/MediaWorld.Domain.dll
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Domain/bin/Debug/netstandard2.0/MediaWorld.Domain.pdb
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Domain/obj/Debug/netstandard2.0/MediaWorld.Domain.csprojAssemblyReference.cache
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Domain/obj/Debug/netstandard2.0/MediaWorld.Domain.AssemblyInfoInputs.cache
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Domain/obj/Debug/netstandard2.0/MediaWorld.Domain.AssemblyInfo.cs
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Domain/obj/Debug/netstandard2.0/MediaWorld.Domain.dll
+/Users/alexander/Desktop/revature/1_csharp/MediaWorld/MediaWorld.Domain/obj/Debug/netstandard2.0/MediaWorld.Domain.pdb

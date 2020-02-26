@@ -1,8 +1,12 @@
+# create the solution and projects
 dotnet new sln -n MediaWorld  
 dotnet new console -n MediaWorld.Client
 dotnet new classlib -n MediaWorld.Domain
 dotnet new classlib -n MediaWorld.Storage
 dotnet new xunit -n MediaWorld.Test
 dotnet sln add **/*.csproj
-
-
+# connect the projects into a dependency graph
+dotnet add MediaWorld.Client/MediaWorld.Client.csproj reference MediaWorld.Domain/MediaWorld.Domain.csproj 
+dotnet add MediaWorld.Client/MediaWorld.Client.csproj reference MediaWorld.Storage/MediaWorld.Storage.csproj 
+dotnet add MediaWorld.Storage/MediaWorld.Storage.csproj reference MediaWorld.Domain/MediaWorld.Domain.csproj 
+dotnet add MediaWorld.Test/MediaWorld.Test.csproj reference MediaWorld.Domain/MediaWorld.Domain.csproj 

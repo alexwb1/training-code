@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MediaWorld.Client/1.0.0": {
+        "dependencies": {
+          "MediaWorld.Domain": "1.0.0",
+          "MediaWorld.Storage": "1.0.0"
+        },
+        "runtime": {
+          "MediaWorld.Client.dll": {}
+        }
+      },
+      "MediaWorld.Domain/1.0.0": {
+        "runtime": {
+          "MediaWorld.Domain.dll": {}
+        }
+      },
+      "MediaWorld.Storage/1.0.0": {
+        "dependencies": {
+          "MediaWorld.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MediaWorld.Storage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediaWorld.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediaWorld.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediaWorld.Storage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

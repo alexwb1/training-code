@@ -1,6 +1,6 @@
 namespace PizzaPro.Domain.Models
 {
-  public class Size : Model
+  public class Size : Component
   {
 
   }

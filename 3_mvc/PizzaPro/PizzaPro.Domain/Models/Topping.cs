@@ -1,6 +1,6 @@
 namespace PizzaPro.Domain.Models
 {
-  public class Topping : Model
+  public class Topping : Component
   {
   
   }

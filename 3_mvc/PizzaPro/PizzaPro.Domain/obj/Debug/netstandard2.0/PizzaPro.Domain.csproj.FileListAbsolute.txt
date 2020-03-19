@@ -1,0 +1,8 @@
+/Users/alexander/Desktop/revature/3_mvc/PizzaPro/PizzaPro.Domain/bin/Debug/netstandard2.0/PizzaPro.Domain.deps.json
+/Users/alexander/Desktop/revature/3_mvc/PizzaPro/PizzaPro.Domain/bin/Debug/netstandard2.0/PizzaPro.Domain.dll
+/Users/alexander/Desktop/revature/3_mvc/PizzaPro/PizzaPro.Domain/bin/Debug/netstandard2.0/PizzaPro.Domain.pdb
+/Users/alexander/Desktop/revature/3_mvc/PizzaPro/PizzaPro.Domain/obj/Debug/netstandard2.0/PizzaPro.Domain.csprojAssemblyReference.cache
+/Users/alexander/Desktop/revature/3_mvc/PizzaPro/PizzaPro.Domain/obj/Debug/netstandard2.0/PizzaPro.Domain.AssemblyInfoInputs.cache
+/Users/alexander/Desktop/revature/3_mvc/PizzaPro/PizzaPro.Domain/obj/Debug/netstandard2.0/PizzaPro.Domain.AssemblyInfo.cs
+/Users/alexander/Desktop/revature/3_mvc/PizzaPro/PizzaPro.Domain/obj/Debug/netstandard2.0/PizzaPro.Domain.dll
+/Users/alexander/Desktop/revature/3_mvc/PizzaPro/PizzaPro.Domain/obj/Debug/netstandard2.0/PizzaPro.Domain.pdb

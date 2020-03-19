@@ -1,6 +1,6 @@
 namespace PizzaPro.Domain.Models
 {
-  public class UserAccount : Model
+  public class UserAccount : Account
   {
   
   }

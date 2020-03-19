@@ -5,7 +5,7 @@ namespace PizzaPro.Domain.Models
     private static System.Collections.Generic.List<Pizza> presets = new System.Collections.Generic.List<Pizza>();
     public Presets()
     {
-      presets.Add(new Pizza);
+      presets.Add(new Pizza());
     }
 
 
